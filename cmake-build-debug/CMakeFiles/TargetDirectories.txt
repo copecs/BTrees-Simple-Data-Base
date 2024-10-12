@@ -1,0 +1,3 @@
+C:/Users/petar/CLionProjects/Aspfinal/cmake-build-debug/CMakeFiles/Aspfinal.dir
+C:/Users/petar/CLionProjects/Aspfinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/petar/CLionProjects/Aspfinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
